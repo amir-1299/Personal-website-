@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Composer dependencies
+vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PHPStorm
+.idea/
+
+# Environment files
+.env
+
+# Log files
+*.log
